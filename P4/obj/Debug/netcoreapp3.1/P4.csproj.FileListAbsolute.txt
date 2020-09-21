@@ -1,0 +1,12 @@
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-V/P4/bin/Debug/netcoreapp3.1/P4.deps.json
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-V/P4/bin/Debug/netcoreapp3.1/P4.runtimeconfig.json
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-V/P4/bin/Debug/netcoreapp3.1/P4.runtimeconfig.dev.json
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-V/P4/bin/Debug/netcoreapp3.1/P4.dll
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-V/P4/bin/Debug/netcoreapp3.1/P4.pdb
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-V/P4/obj/Debug/netcoreapp3.1/P4.csprojAssemblyReference.cache
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-V/P4/obj/Debug/netcoreapp3.1/P4.AssemblyInfoInputs.cache
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-V/P4/obj/Debug/netcoreapp3.1/P4.AssemblyInfo.cs
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-V/P4/obj/Debug/netcoreapp3.1/P4.csproj.CoreCompileInputs.cache
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-V/P4/obj/Debug/netcoreapp3.1/P4.dll
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-V/P4/obj/Debug/netcoreapp3.1/P4.pdb
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-V/P4/obj/Debug/netcoreapp3.1/P4.genruntimeconfig.cache
